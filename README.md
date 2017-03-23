@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project will be an attempt to write a simple generic tool tasks with the following requirements, or a subset of them
+This project will be an attempt to write a simple generic tool for tasks with the following requirements, or a subset of them
 depending on the final scope:
  * Read at least json and csv data and validate, filter and transform some fields using Python
  * Restructure the object relations to reflect some internal application logic not present in the original records
@@ -14,6 +14,8 @@ depending on the final scope:
 The project is inspired by a real world application, with the intention of making some code way more generic.
 Whether I have the time to proceed with the project, and whether it succeeds to any reasonable degree, is not certain
 at all. We will see.
+
+Most likely at least the initial scope will be more of a PoC than anything useful for real applications.
 
 ## Some notes
 
