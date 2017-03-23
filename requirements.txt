@@ -1,13 +1,12 @@
-alembic==0.9.1
 appdirs==1.4.3
 Mako==1.0.6
 MarkupSafe==1.0
 numpy==1.12.1
 packaging==16.8
 pandas==0.19.2
+psycopg2==2.7.1
 pyparsing==2.2.0
 python-dateutil==2.6.0
 python-editor==1.0.3
 pytz==2016.10
 six==1.10.0
-SQLAlchemy==1.1.6
